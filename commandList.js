@@ -1,0 +1,15 @@
+module.exports = [
+    "!commands",
+    "!nicememe",
+    "!discord",
+    "!donate",
+    "!wat",
+    "!pingu",
+    "!steif",
+    "!ping",
+    "!hackfleischhassenderzerhacker",
+    "!lotto",
+    "!giveaway",
+    "!fail",
+    "!monsterfail",
+];
